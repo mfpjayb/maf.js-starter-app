@@ -1,0 +1,23 @@
+{
+  "name": "maf.js-starter-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "parcel -p 4000 index.html",
+      "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "maf.js-plugin": "0.0.20",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "maf.js": "0.0.18"
+  }
+}

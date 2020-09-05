@@ -1,0 +1,4 @@
+{
+    "plugins": ["module:maf.js-plugin"],
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
