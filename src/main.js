@@ -5,4 +5,4 @@ const module = new Module({
     component: App
 });
 
-module.$mount('#app', true);
+module.mount('#app', true);
