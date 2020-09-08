@@ -18,6 +18,6 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "maf.js": "0.0.21"
+    "maf.js": "0.0.22"
   }
 }
