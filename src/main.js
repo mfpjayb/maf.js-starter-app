@@ -1,4 +1,4 @@
-import { Module } from 'maf.js';
+import { Module } from 'vermillion';
 import App from './App';
 
 const module = new Module({

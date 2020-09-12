@@ -1,5 +1,5 @@
 <template>
-    <h1>Maf.js Starter App</h1>
+    <h1>Vermillion Starter App</h1>
 </template>
 
 export default class App { }

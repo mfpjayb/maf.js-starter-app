@@ -1,4 +1,4 @@
 {
-    "plugins": ["module:maf.js-plugin"],
+    "plugins": ["module:vermillion-plugin"],
     "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
