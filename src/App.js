@@ -3,4 +3,3 @@
 </template>
 
 export default class App { }
-
